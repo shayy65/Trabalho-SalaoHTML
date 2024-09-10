@@ -1,0 +1,58 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.linha{
+    border-right: 1px solid #e6376b;
+    padding-right: 30px;
+}
+
+.direito{
+    padding-left: 40px;
+    padding-right: 100px;
+}
+
+.font-pink{
+    color:#FF4081
+}
+
+.card-total{
+    width: 1200px;
+}
+.card-header {
+    background-color: #FF4081;
+    color: #fff;
+    width: 1200px;
+}
+
+.card-body{
+    width: 1200px;
+    height: auto;
+}
+
+.btn-pink {
+    background-color: #FF4081;
+    border-color: #FF4081;
+    color: white;
+}
+
+.btn-pink:hover {
+    background-color: #e6376b;
+    border-color: #e6376b;
+}
+
+textarea {
+    border: 1px solid #FF4081; 
+    border-radius: 5px; 
+
+  }
+
+.form-label {
+    font-weight: bold;
+}
+
+.border-pink {
+    border: 1px solid #FF4081; 
+    padding: 10px;           
+    border-radius: 5px;       
+}
